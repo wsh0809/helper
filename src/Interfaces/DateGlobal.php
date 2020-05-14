@@ -27,4 +27,5 @@ interface DateGlobal
      * 一周的秒数
      */
     const SECONDS_IN_A_WEEK = 604800;
+
 }
