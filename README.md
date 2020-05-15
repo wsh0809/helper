@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require alan_/helper -vvv
+$ composer require wsh0809/helper -vvv
 ```
 
 ## Usage
